@@ -1,0 +1,91 @@
+﻿Pennsieve_sub_ID,age_at_baseline,"sex (1: male, 2: female)","race (1: American Indian/Alaska Native, 2: Asian, 3: Black or African American, 4: Native Hawaiian/Other Pacific Islander, 5: White, 6: Two or more races, 7: Other)","ethnicity (0: Non-Hispanic, 1: Hispanic)","handedness (1: Right, 2: Left)",surgery_year,surgery_type,"Side (1: left; 2: right, 3: bilateral)","Age Onset, yrs","Duration, yrs",FAS_Freq_monthly,FIAS_Freq_monthly,FBTC_Freq_monthly,FIAS+FBTC_SzFreq_monthly,TotalSz_Freq_Monthly,Sz type(s),HistoryStatusEpilepticus (0: no; 1: yes),IctalEEG (1: well localized; 2: not well localized),InterictalEEG (1: lateralized; 2 not lateralized),PET (1: localized 2: not localized),MEG (0: not done; 1: localized; 2:  not localized),InvasiveRecordings (0: none; 1: grid/strips/; 2: stereo EEG),fMRI (0: not done; 1: done),"Language (0: not done or unknown; 1: left; 2: right, 3: bilateral)",WADA done (0: no; 1: yes),WADA - Left Injection (out of 15),WADA - Right Injection (out of 15),Clin_MRI_EvidenceMTS (0: no; 1: yes),Pathology (1: MTS; 2: some gliosis; 3: tumor; 4: normal; 5 none; 6: other),Engel Outcome 6 month,Engel Outcome 1 yr,Engel Outcome 2 yr,Engel Outcome 3 yr,Postop scan status (0: not completed; 1: completed; 2: no surgery yet)
+sub-pat02,49,2,5,0,1,2013,Right ATL,2,32,17,0,1.5,0,1.5,1.5,FIAS,0,1,1,1,0,0,0,0,0,N/A,N/A,1,1,I-a,I-a,I-a,I-a,1
+sub-pat03,51,2,5,0,1,2012,Right SAH,2,10,41,0,6,4.5,10.5,10.5,FIAS/FBTC,0,1,1,1,0,0,0,0,1,2,5,1,1,II-a,II-a,II-a,I-c,1
+sub-pat04,18,2,7,0,1,2012,Left SAH,1,0.583333333,18,2.5,1,0.083333333,1.083333333,3.583333333,FAS/FIAS/FBTC,0,1,1,1,0,0,0,1,1,12,10,1,1,I-a,I-a,I-a,I-a,1
+sub-pat05,39,2,5,0,1,2013,Right SAH,2,0.25,39,0,4,0.13,4.13,4.13,FIAS/FBTC,0,1,2,1,0,0,0,0,0,N/A,N/A,1,1,I-a,I-a,I-a,I-a,1
+sub-pat06,28,1,5,0,1,2013,Left SAH,1,24,4,0,30,0.2,30.2,30.2,FIAS/FBTC,0,1,2,1,0,0,1,3,1,12,11,1,1,I-a,I-a,I-a,I-d,1
+sub-pat07,54,2,5,0,1,2013,Right ATL,2,33,21,1.5,4.5,0.083333333,4.583333333,6.083333333,FAS/FIAS/FBTC,0,1,2,2,0,0,0,0,0,N/A,N/A,0,1,I-a,I-a,I-a,I-a,1
+sub-pat08,18,1,5,0,1,2013,Left SAH,1,12,6,0,3,0,3,3,FIAS,0,1,2,1,0,0,1,1,1,12,9,1,1,I-b,I-b,I-b,I-b,1
+sub-pat09,43,1,5,0,1,2013,Right SAH,2,33,10,0,12,0.025,12.025,12.025,FIAS/FBTC,0,1,1,1,0,0,0,0,0,N/A,N/A,1,1,I-a,I-a,I-a,III-b,1
+sub-pat10,24,1,5,0,1,2013,Right SAH,3,1,23,0,0.5,0,0.5,0.5,FIAS,0,2,2,1,0,0,1,1,1,6 out of 8,8 out of 8,1,1,I-a,I-a,I-a,II-a,0
+sub-pat11,23,1,5,0,2,2014,Right ATL,2,20,3,0,10,0,10,10,FIAS,0,1,1,1,0,2,1,1,1,9,11,0,2,I-a,I-a,III-a,III-a,1
+sub-pat12,41,2,5,0,1,2014,Right ATL,2,23,18,0,12,0.166666667,12.16666667,12.16666667,FIAS/FBTC,0,1,1,1,0,0,1,3,0,N/A,N/A,1,1,I-a,I-a,I-a,I-a,0
+sub-pat13,38,2,5,0,1,2014,Right SAH,2,33,5,20,2.5,0,2.5,22.5,FAS/FIAS,0,1,2,2,0,0,1,1,0,N/A,N/A,1,1,II-b,II-b,II-b,III-a,1
+sub-pat14,37,2,5,0,1,2014,Right SAH,2,1,36,0,2,0.083333333,2.083333333,2.083333333,FIAS/FBTC,0,1,1,1,0,0,1,1,0,N/A,N/A,1,1,I-a,I-a,I-a,I-a,1
+sub-pat15,68,1,5,0,1,2014,Left SAH,1,18,50,0,6,0.03125,6.03125,6.03125,FIAS/FBTC,0,1,2,2,0,0,1,3,1,10,7,1,1,I-a,I-a,I-d,II-b,1
+sub-pat16,21,1,5,0,1,2014,Left SAH,1,1,20,0,8,0,8,8,FIAS,0,1,1,1,0,0,1,1,1,8,7,1,1,I-a,I-a,I-a,I-a,0
+sub-pat18,38,1,5,0,1,2015,Right ATL,2,28,10,0,27,0.4,27.4,27.4,FIAS/FBTC,0,1,2,1,0,2,1,1,0,N/A,N/A,1,1,III-a,IV-c,IV-c,IV-c,1
+sub-pat19,46,2,3,0,2,2014,Left SAH,1,0,46,0,20.25,4,24.25,24.25,FIAS/FBTC,0,1,2,2,0,0,1,2,1,11,0,0,1,I-a,I-a,I-a,I-a,1
+sub-pat20,36,2,5,0,1,2014,Right SAH,2,20,16,60,4.5,0.083333333,4.583333333,64.58333333,FAS/FIAS/FBTC,1,2,1,1,0,0,1,1,0,N/A,N/A,1,1,I-b,II-b,III-a,III-a,0
+sub-pat21,46,1,5,0,2,2014,Right ATL,2,1,45,0,3,0,3,3,FIAS,0,1,1,1,0,0,1,3,0,N/A,N/A,1,1,III-a,III-a,III-a,Unavailable,1
+sub-pat22,42,2,3,0,1,2014,Right ATL,2,32,10,0,6,0,6,6,FIAS,0,1,1,2,0,0,1,1,0,N/A,N/A,0,2,I-a,II-c,II-c,II-c,1
+sub-pat23,62,2,5,0,1,2015,Right ATL,2,31,31,0.166666667,0.583333333,0,0.583333333,0.75,FAS/FIAS,0,1,1,1,0,0,0,0,0,N/A,N/A,1,1,I-a,I-a,I-a,I-a,1
+sub-pat24,43,2,5,0,1,2016,Right SAH,2,10,33,3,8,0,8,11,FAS/FIAS,0,1,1,1,0,0,1,3,0,N/A,N/A,1,1,I-a,I-b,I-b,I-b,1
+sub-pat25,40,1,5,0,1,2015,Laser Ablation of Left Amyg + Hippo,1,8,32,1,2.5,0.083333333,2.583333333,3.583333333,FAS/FIAS/FBTC,0,1,1,1,0,0,1,3,1,10,4,1,5,I-a,I-a,I-a,I-a,0
+sub-pat26,35,1,5,0,1,2016,Left SAH,1,32,3,6,1.5,0.166666667,1.666666667,7.7,FAS/FIAS/FBTC,0,2,1,1,0,0,1,1,1,6,3,1,1,I-b,III-a,III-a,IV-b,1
+sub-pat27,25,1,5,0,1,2015,Right SAH,2,22,3,0,1,0,1,1,FIAS,0,1,1,1,0,0,1,1,0,N/A,N/A,0,1,I-a,I-a,I-a,I-a,1
+sub-pat28,24,1,5,0,1,Pending,Pending,2,19,5,4,4,1,5,9,FAS/FIAS/FBTC,1,1,1,1,0,0,1,1,0,N/A,N/A,0,5,N/A,N/A,N/A,N/A,0
+sub-pat29,42,2,5,0,1,2016,Left SAH,1,18,22,2,0,0,0,2,FAS,0,1,2,2,0,0,1,1,0,N/A,N/A,1,1,I-b,IV-b,IV-b,IV-b,0
+sub-pat30,30,1,5,0,1,2016,Right ATL,2,28,2,0,8,4,12,12,FIAS/FBTC,0,1,1,1,0,0,1,1,0,N/A,N/A,0,2,II-b,II-b,II-b,II-b,1
+sub-pat31,30,1,5,0,1,2017,Right SAH,2,8,22,0,0,8,8,8,FBTC,1,2,1,1,0,2,0,1,1,6,11,0,4,I-d,I-d,I-d,I-d,0
+sub-pat32,45,2,5,0,1,2017,Right SAH,2,6,39,3,8,0,8,11,FAS/FIAS,0,1,1,1,0,0,1,1,0,N/A,N/A,1,1,I-b,I-b,I-c,I-c,1
+sub-pat34,46,2,5,0,1,2017,Left SAH,1,1,45,0,1.5,0,1.5,1.5,FIAS,0,1,2,1,0,0,0,1,1,6,11,1,1,I-a,I-a,I-a,I-a,1
+sub-pat35,47,1,5,0,1,2018,Right SAH,2,6,41,6,1,0.125,1.125,7.125,FAS/FIAS/FBTC,0,1,1,1,0,0,1,1,0,N/A,N/A,1,1,I-a,I-b,I-b,I-b,1
+sub-pat36,55,2,5,0,2,2018,Right SAH,2,50,5,1,2,0,2,3,FAS/FIAS,0,1,2,1,0,0,1,1,0,N/A,N/A,1,1,I-a,I-a,I-d,I-d,1
+sub-pat37,24,1,5,0,1,2018,Right SAH,2,15,9,195,48,0.04,48.04,243.04,FAS/FIAS/FBTC,1,1,1,1,0,0,1,1,0,N/A,N/A,1,1,I-b,I-b,Unavailable,Unavailable,1
+sub-pat38,54,1,5,0,2,2018,Right SAH,2,40,14,0,1.5,0,1.5,1.5,FIAS,0,1,1,1,0,0,1,1,1,6,12,0,6,I-a,I-a,I-a,II-a,1
+sub-pat39,38,2,5,0,1,2018,Right SAH,2,3,35,75,1.5,0,1.5,76.5,FAS/FIAS,0,2,1,2,0,0,1,1,0,N/A,N/A,0,1,I-a,I-b,I-d,I-d,1
+sub-pat101,26,1,5,0,2,2018,Left SAH,1,0.083333333,26,45,12.5,12.5,25,70,FAS/FIAS/FBTC,0,1,1,1,0,0,1,2,0,N/A,N/A,1,1,I-a,I-a,I-a,I-a,0
+sub-pat102,57,1,5,0,1,2019,Left SAH,1,52,5,14,0,0,0,14,FAS,0,1,1,1,0,0,0,1,1,6,7,1,1,I-a,I-a,I-a,I-a,1
+sub-pat103,39,2,3,0,2,2019,Right SAH,2,14,25,0,3.5,0,3.5,3.5,FIAS,0,1,1,1,0,0,1,1,0,N/A,N/A,1,1,I-a,I-a,I-a,I-a,1
+sub-pat104,44,1,5,0,1,2019,Left SAH,1,17,27,14,4,2.5,6.5,20.5,FAS/FIAS/FBTC,0,1,1,1,0,0,0,1,1,3,5,1,1,I-a,I-a,II-d,II-d,1
+sub-pat105,60,1,5,0,1,2019,Right SAH,2,10,50,16,1.5,0,1.5,17.5,FAS/FIAS,0,1,1,1,0,0,1,1,0,N/A,N/A,1,1,I-a,I-a,I-a,I-a,1
+sub-pat106,44,1,5,0,2,2019,Right SAH + posterior hippo extension,2,3,41,0,2.5,1.5,4,4,FIAS/FBTC,0,1,1,1,0,0,1,1,0,N/A,N/A,1,1,I-a,II-b,I-c,II-a,1
+sub-pat107,43,2,3,0,1,2020,Right SAH,2,41,2,0,10,0,10,10,FIAS,0,2,1,1,0,2,1,1,0,N/A,N/A,0,5,I-a,II-b,II-b,I-c,1
+sub-pat108,27,1,3,0,1,2020,Left SAH,1,22,4,0,2,0.29,2.29,2.29,FIAS/FBTC,0,1,1,1,0,0,1,1,0,N/A,N/A,1,1,I-a,I-a,I-a,II-a,1
+sub-pat109,41,2,5,0,1,2021,Left SAH,1,2,40,0,3,3,6,6,FIAS/FBTC,0,1,1,1,0,0,1,1,0,N/A,N/A,1,1,I-a,I-a,Unavailable,Unavailable,0
+sub-pat110,58,2,5,0,1,2021,Left SAH,1,56,2,0,5,0.1,5.1,5.1,FIAS/FBTC,0,1,1,1,0,0,1,1,1,9,10,1,1,II-b,II-b,I-c,II-b,1
+sub-pat111,62,1,5,0,1,2022,Right SAH,1,41,21,0,6,0.1,6.1,6.1,FIAS/FBTC,0,1,2,1,0,0,1,0,0,N/A,N/A,0,1,I-a,I-a,I-a,II-a,1
+sub-pat112,46,1,1,0,1,2022,Left SAH,1,25,22,0,2,0,2,2,FIAS,0,2,1,1,0,0,1,1,0,N/A,N/A,1,1,I-a,I-a,II-a,Unavailable,1
+sub-pat113,53,1,5,0,1,2023,Left ROSA Laser Ablation,1,48,5,0,10,1.5,11.5,11.5,FIAS/FBTC,0,1,1,1,0,0,1,1,0,N/A,N/A,1,5,II-b,II-b,II-b,II-b,1
+sub-pat114,41,1,5,0,1,2023,Right SAH,2,10,31,0,4,0.05,4.05,4.05,FIAS/FBTC,0,2,1,1,0,0,1,1,0,N/A,N/A,0,1,I-a,I-a,I-a,Pending,1
+sub-pat115,22,2,3,0,1,2024,Left ATL,1,8,14,0,2,0.1,2.1,2.1,FIAS/FBTC,0,1,2,1,0,0,1,1,0,N/A,N/A,1,6,I-a,I-b,Pending,Pending,1
+sub-pat116,32,1,5,0,1,2024,Right SAH,2,19,13,1,1,1,2,3,FAS/FIAS/FBTC,0,1,1,1,0,0,1,1,0,N/A,N/A,1,1,I-a,II-b,Pending,Pending,0
+sub-pat117,39,2,5,0,1,2024,Right SAH,2,35,5,0,5,0.1,5.1,5.1,FIAS/FBTC,0,2,1,1,0,0,1,1,0,N/A,N/A,1,1,I-a,I-a,Pending,Pending,1
+sub-pat118,37,1,5,0,1,2025,Right SAH,2,28,9,0,25,0.08,25.08,25.08,FIAS/FBTC,0,2,1,1,0,0,1,1,0,N/A,N/A,1,1,I-a,Pending,Pending,Pending,0
+sub-pat119,44,1,5,0,1,2025,Right SAH,2,22,22,0,1,0,1,1,FIAS,0,1,1,1,0,0,1,1,0,N/A,N/A,1,1,I-a,Pending,Pending,Pending,0
+sub-pat120,52,2,5,0,1,2025,Right SAH,2,42,10,3,0,rare,rare,3,FAS/FBTC,0,1,1,1,0,0,1,1,0,N/A,N/A,1,1,I-a,Pending,Pending,Pending,0
+sub-pat121,24,2,5,0,2,2025,Right SAH,2,18,6,2,3,rare,3,5,FAS/FIAS/FBTC,0,1,1,1,0,0,1,1,0,N/A,N/A,1,1,Pending,Pending,Pending,Pending,0
+sub-pat122,44,1,5,0,1,2025,Right SAH,2,26,18,0,8,0.16666,8.1667,8.1667,FIAS/FBTC,0,1,2,1,0,0,1,1,0,N/A,N/A,1,1,Pending,Pending,Pending,Pending,0
+sub-apat101,34,1,5,0,1,2019,Left Laser Ablation of Amygdala + Anterior Hippocampus,1,16,19,0.5,0,0.25,0.25,0.75,FAS/FBTC,0,1,1,1,0,0,0,1,0,N/A,N/A,0,5,I-b,IV,III-a,III-a,1
+sub-apat102,50,1,5,1,2,2018,Right SAH,2,4,44,10,2,0.083333333,2.083333333,12.08333333,FAS/FIAS/FBTC,0,1,1,1,0,2,1,3,1,8,8,0,2,I-a,I-a,IIb,I-c,1
+sub-apat103,36,2,5,0,1,2019,"Right ""limited"" ATL",2,27,9,21,0,rare,0,21,FAS/FBTC,0,1,1,1,0,0,1,1,0,N/A,N/A,0,2,I-b,I-b,I-b,I-b,1
+sub-apat104,45,2,5,0,1,2019,"Left ""limited"" ATL + SAH",1,40,5,0,15,1.5,16.5,16.5,FIAS/FBTC,0,1,1,1,0,0,1,1,1,3,6,0,2,II-b,III-a,III-a,III-a,1
+sub-apat105,65,2,5,0,1,2019,Right SAH,2,62,3,0,2,0,2,2,FIAS,0,1,1,1,0,0,1,1,0,N/A,N/A,0,1,I-a,I-a,I-a,I-a,0
+sub-apat106,35,1,5,0,1,2020,Right ATL,2,24,11,0,7.5,0,7.5,7.5,FIAS,0,2,2,2,0,2,0,0,0,N/A,N/A,0,1,III-a,III-a,III-a,II-a,0
+sub-apat107,53,1,5,0,1,2019,Left Encephalocele Resection,1,27,26,0.2,0.2,0.2,0.4,0.6,FAS/FIAS/FBTC,0,1,1,1,0,0,1,1,1,N/A,N/A,0,6,I-d,I-d,II-b,II-b,0
+sub-apat109,52,2,5,0,1,2020,Right ATL,2,38,14,0,4,0,4,4,FIAS,0,1,1,1,1,2,0,0,0,N/A,N/A,0,2,I-a,I-a,I-a,I-a,1
+sub-apat110,24,1,5,0,1,2020,Right SAH,2,17,7,0,24,0.2,24.2,24.2,FIAS/FBTC,1,1,1,2,0,0,1,1,0,N/A,N/A,0,1,I-a,I-a,I-a,I-a,1
+sub-apat111,30,2,6,0,1,2020,Right SAH,2,16,14,0,3.5,6,9.5,9.5,FIAS/FBTC,0,1,1,2,0,2,1,1,0,N/A,N/A,0,1,I-d,I-d,I-d,II-a,1
+sub-apat112,42,2,5,0,1,2019,Left SAH,1,33,9,0,63,1,64,64,FIAS/FBTC,0,1,1,2,0,2,0,1,1,5,10,0,6,I-a,I-a,I-b,II-a,0
+sub-apat113,23,2,5,0,1,2018,Right SAH,2,12,11,8,6,0.125,6.125,14.125,FAS/FIAS/FBTC,0,1,2,2,0,2,0,0,0,N/A,N/A,0,1,I-b,I-b,II-a,II-a,1
+sub-apat114,36,2,3,0,1,2021,Left ATL,1,26,8,0,6,0,6,6,FIAS,0,1,1,2,1,2,1,2,1,10,2,0,2,II-b,II-b,II-b,I-c,0
+sub-apat115,58,2,3,0,1,2021,Right SAH,2,50,8,0,0.5,0.25,0.75,0.75,FIAS/FBTC,0,1,1,1,0,2,1,1,0,N/A,N/A,0,1,I-a,I-a,Unavailable,Unavailable,0
+sub-apat116,41,1,5,0,1,2021,Left SAH,1,10,31,0,0,10,10,10,FBTC,0,1,2,2,1,2,1,3,1,11,2,1,1,I-a,I-a,I-a,II-a,1
+sub-apat118,45,2,5,0,1,2019,Right SAH,3,21,24,2.5,0,0,0,2.5,FAS,0,2,2,1,0,2,0,0,0,N/A,N/A,1,1,I-a,I-a,I-a,I-a,1
+sub-apat119,44,2,5,0,1,2022,Left Encephalocele Resection,1,40,4,0,7.3,0,7.3,7.3,FIAS,0,1,1,1,0,0,1,1,0,N/A,N/A,0,2,II-b,II-b,II-c,I-c,1
+sub-apat120,26,2,5,0,1,N/A,N/A,2,4,22,0,45,0,45,45,FIAS,0,1,1,1,0,0,1,1,0,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,0
+sub-apat121,31,2,5,0,1,2022,Right Encephalocele Resection,2,26,5,0.3,2.5,0.3,2.8,3.1,FAS/FIAS/FBTC,0,1,1,2,0,0,1,1,0,N/A,N/A,0,6,II-b,II-b,II-b,II-b,1
+sub-apat123,58,2,5,0,1,Pending,Pending,1,49,9,0,1.5,0,1.5,1.5,FIAS,0,2,1,2,0,2,1,1,0,N/A,N/A,0,No surg yet,No surg yet,No surg yet,No surg yet,No surg yet,2
+sub-apat124,58,2,5,0,1,2022,Right Encephalocele Resection,2,57,2,15,6,0,6,21,FAS/FIAS,0,1,1,1,0,0,1,1,0,N/A,N/A,0,6,I-a,I-a,I-a,II-b,1
+sub-apat125,33,2,5,0,1,2023,Right ATL,2,19,14,0,1.5,0,1.5,1.5,FIAS,0,1,1,1,1,2,1,1,0,N/A,N/A,0,2,I-a,I-a,I-a,Pending,1
+sub-apat127,49,2,5,0,1,Pending,Pending,1,19,30,0,1,0.05,1.05,1.05,FIAS/FBTC,1,2,1,2,2,2,0,1,1,1,9,0,No surg yet,No surg yet,No surg yet,No surg yet,No surg yet,2
+sub-apat128,35,2,5,0,1,2023,Left Laser Ablation of Mesial Temporal Lesion,1,33,2,0,45,0.75,45.75,45.75,FIAS/FBTC,0,1,1,2,0,0,1,1,1,5,9,0,6,I-d,I-d,Unavailable,Pending,0
+sub-apat129,35,1,3,0,1,Pending,Pending,2,30,5,1,1,0,1,2,FAS/FIAS,0,1,1,2,0,2,0,0,0,N/A,N/A,0,No surg yet,No surg yet,No surg yet,No surg yet,No surg yet,2
+sub-apat131,24,1,5,0,2,2024,Right ATL,3,21,3,0,0.5,0.2,0.7,0.7,FIAS/FBTC,1,1,2,2,0,2,1,1,0,N/A,N/A,1,6,I-a,I-a,Pending,Pending,1
+sub-apat132,51,2,3,0,1,2024,Right Encephalocele Resection,2,46,5,3,0,2,2,5,FAS/FBTC,0,1,1,2,0,0,1,1,0,N/A,N/A,0,2,I-a,I-a,Pending,Pending,1
+sub-apat133,34,2,5,0,1,2024,Left SAH,1,0,34,0,2,rare,2,2,FIAS/FBTC,0,2,1,1,0,2,1,1,0,N/A,N/A,1,6,II-b,II-b,Pending,Pending,0
+sub-apat135,51,1,5,0,2,2025,Right SAH,2,10,41,4,0.5,rare,0.5,4.5,FAS/FIAS/FBTC,0,1,1,2,0,2,1,1,0,N/A,N/A,0,2,I-b,I-b,Pending,Pending,0
+sub-apat136,33,2,3,0,1,Pending,Prior Left LITT ,1,1,32,0,4,rare,4,4,FIAS/FBTC,0,1,1,1,0,0,1,1,0,N/A,N/A,0,No surg yet,No surg yet,No surg yet,No surg yet,No surg yet,2
+sub-apat137,42,2,3,0,1,Pending,Pending,2,31,11,3,8,0,8,11,FAS/FIAS,0,1,1,2,0,2,1,1,0,N/A,N/A,0,No surg yet,No surg yet,No surg yet,No surg yet,No surg yet,2
+sub-apat140,48,1,5,0,1,2026,Right ATL,2,45,3,0,0,0.3,0.3,0.3,FBTC,0,1,1,1,1,2,1,1,0,N/A,N/A,1,1,Pending,Pending,Pending,Pending,0
